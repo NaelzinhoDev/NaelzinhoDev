@@ -49,8 +49,3 @@
 <img src="https://raw.githubusercontent.com/NaelzinhoDev/NaelzinhoDev/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<img src="https://raw.githubusercontent.com/NaelzinhoDev/NaelzinhoDev/output/snake.svg" alt="Snake animation" />
-
-###
-  
