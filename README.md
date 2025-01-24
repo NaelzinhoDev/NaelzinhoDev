@@ -1,64 +1,52 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Bem vindo</h1></summary>
+<h1 align="center">Seja bem-vindo</h1>
+
+###
+
+<p align="left">Olá, me chamo Natanael, um estudante de T.I apaixonado por tecnologia, especialmente progamação em java!</p>
+
+###
+
+<p align="left">Atualmente estudando na Oracle Next Education/alura. Sonho em trabalhar com progamação de jogos/Desenvolvimento de software.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NaelzinhoDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NaelzinhoDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<!-- Presentation -->
-<p>
-  Olá 👋, eu sou o Natanael! Um estudante apaixonado por progamação em java.
+###
 
-  - Atualmente, estou estudando na Oracle Next Education/Alura 
-  - Estou em busca da minha primeira oportunidade de emprego. Meu sonho é, um dia, trabalhar com progamção de games e Desenvolvimento de software.
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 Mais sobre min</summary>
+###
 
-  - 💬 Tenho 24 anos e atualmente moro no Brasil. Sou fluente em inglês e tenho experiência com Java, Python, javscript, HTML e CSS. 
-  - ⚡ Gosto de Tecnologia, ler mangá, assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e resolução de problemas. \o/
-</details>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naelsanttos_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-santos-code/)
+###
 
+<img align="left" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXo2NHBvNWVpOHRtdDJyajNrcnMwaTdtYzdtcXNqd2tzMDEyNHVuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HyOOyynWxMxig/giphy.gif"  />
 
-<!-- GithubStats -->
-![NelzinhoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=naelzinhodev&show_icons=true&theme=dark) 
+###
 
+<br clear="both">
 
-<!-- Portfolio -->
-## Portfolio:
-- [AmigoSecreto](https://github.com/NaelzinhoDev/Amigo-secreto.git)
-- [NumeroSecreto](https://github.com/NaelzinhoDev/numero-secreto.git)
-- [OnePieceLandingpage](https://github.com/NaelzinhoDev/LandingpageOnePiece.git)
+<img src="https://raw.githubusercontent.com/NaelzinhoDev/NaelzinhoDev/output/snake.svg" alt="Snake animation" />
 
-
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
-<p><iframe src="https://giphy.com/embed/HyOOyynWxMxig" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/depressed-mugen-HyOOyynWxMxig">via GIPHY</a></p></p>
-
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-            
-          
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-  </div>
+###
   
