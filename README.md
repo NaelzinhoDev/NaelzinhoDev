@@ -2,11 +2,7 @@
 
 ###
 
-<p align="left">Olá, me chamo Natanael, um estudante de T.I apaixonado por tecnologia, especialmente progamação em java!</p>
-
-###
-
-<p align="left">Atualmente estudando na Oracle Next Education/alura. Sonho em trabalhar com progamação de jogos/Desenvolvimento de software.</p>
+<p align="left">👋 Olá! Me chamo Natanael! Sou um entusiasta da tecnologia de 23 anos. Estou atualmente estudando programação na Oracle, com o objetivo de me especializar como analista de cibersegurança. Tenho um bom domínio do inglês e busco constantemente aprender e crescer no mundo digital.</p>
 
 ###
 
@@ -40,11 +36,19 @@
 
 ###
 
-<img align="left" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXo2NHBvNWVpOHRtdDJyajNrcnMwaTdtYzdtcXNqd2tzMDEyNHVuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HyOOyynWxMxig/giphy.gif"  />
+<img align="left" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBzNnE3NmpieGJtZ2Q3MGVjMmxha3IzZHc1dTFhYTJyc2ZtNjU3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xkSxMQigp6JaRlTM2l/giphy.gif"  />
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://profile-counter.glitch.me/NaelzinhoDev/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/NaelzinhoDev/NaelzinhoDev/output/snake.svg" alt="Snake animation" />
+
+###
 
 <img src="https://raw.githubusercontent.com/NaelzinhoDev/NaelzinhoDev/output/snake.svg" alt="Snake animation" />
 
