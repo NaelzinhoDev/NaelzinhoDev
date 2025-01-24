@@ -36,12 +36,12 @@
 
 ###
 
-<img align="left" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBzNnE3NmpieGJtZ2Q3MGVjMmxha3IzZHc1dTFhYTJyc2ZtNjU3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xkSxMQigp6JaRlTM2l/giphy.gif"  />
+<img align="left" height="260" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBzNnE3NmpieGJtZ2Q3MGVjMmxha3IzZHc1dTFhYTJyc2ZtNjU3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xkSxMQigp6JaRlTM2l/giphy.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/NaelzinhoDev/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NaelzinhoDev.NaelzinhoDev&"  />
 </div>
 
 ###
