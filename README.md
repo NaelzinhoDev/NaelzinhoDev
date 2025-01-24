@@ -40,9 +40,7 @@
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
-<p align="left">
-  <img align="center" src="[https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN243YnJsM2dxMTBzZG4xNWs3b29uOHQ2dzk1c3Nzc2xzbTRzbXQwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HyOOyynWxMxig/giphy.gif)" alt="Imagem">
-</p>
+<p><iframe src="https://giphy.com/embed/HyOOyynWxMxig" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/depressed-mugen-HyOOyynWxMxig">via GIPHY</a></p></p>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
